@@ -1,1 +1,1 @@
-# myblog
+# privatetechnologyblog
